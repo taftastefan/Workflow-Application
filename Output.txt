@@ -1,0 +1,11 @@
+Titlu
+Descriere
+StepTextStepwith the title Titlu and copy: Copie
+StepTextInputwith the description Descriere and text input Frumoasa
+Step CalculusStep with steps 3 3 3 and operation +
+***
+Titlu1
+Descriere2
+Step TextFile with the description descriere and txt file nameTXT.txt
+Step CSVFile with the description descriere and CSV file nameCSV.csv
+***
